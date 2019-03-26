@@ -1,0 +1,4 @@
+[local-mysql]
+name=local-mysql
+baseurl=file:///software/mysql
+gpgcheck=0

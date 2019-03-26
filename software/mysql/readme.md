@@ -1,0 +1,2 @@
+下载好的MySQL安装介质就放在这个路径下。
+我的MySQL安装介质是从Percona下载的包含RPM的TAR包。
